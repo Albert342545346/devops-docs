@@ -11,3 +11,5 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://Albert342545346.github.io/devops-docs/`.
+
+Проверка: [несуществующая страница](missing-page.md).
